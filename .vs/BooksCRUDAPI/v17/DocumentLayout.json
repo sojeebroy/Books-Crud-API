@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ostad\\Code\\BooksCRUDAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Migrations\\20251114113725_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooksCRUDAPI\\Migrations\\20251114113725_initialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\bookscrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\bookscrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\dataaccess\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\dataaccess\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\services\\interfaces\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\services\\interfaces\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\repository\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\repository\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|d:\\ostad\\code\\bookscrudapi\\bookscrudapi\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736E3870-698B-4464-A359-234CB43FACC0}|BooksCRUDAPI\\BooksCRUDAPI.csproj|solutionrelative:bookscrudapi\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251114113725_initialMigration.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Migrations\\20251114113725_initialMigration.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Migrations\\20251114113725_initialMigration.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Migrations\\20251114113725_initialMigration.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Migrations\\20251114113725_initialMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:37:26.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:30:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\DataAccess\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\DataAccess\\BookConfiguration.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\DataAccess\\BookConfiguration.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\DataAccess\\BookConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:34:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Services\\BookService.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Services\\BookService.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Services\\BookService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:54:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Program.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Program.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:56:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksCRUDAPI.csproj",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\BooksCRUDAPI.csproj",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\BooksCRUDAPI.csproj",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\BooksCRUDAPI.csproj",
+              "RelativeToolTip": "BooksCRUDAPI\\BooksCRUDAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T09:32:14.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Repository\\BookRepository.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:43:56.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:44:20.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:33:21.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\appsettings.json",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\appsettings.json",
+              "RelativeToolTip": "BooksCRUDAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T10:00:28.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:46:39.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Repository\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:46:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookServices.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Services\\Interfaces\\IBookServices.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Services\\Interfaces\\IBookServices.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Services\\Interfaces\\IBookServices.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Services\\Interfaces\\IBookServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:53:48.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BooksCRUDAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T09:39:39.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Models\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Models\\BookViewModel.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Models\\BookViewModel.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Models\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:38:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "BooksCRUDAPI\\Entity\\Book.cs",
+              "ToolTip": "D:\\Ostad\\Code\\BooksCRUDAPI\\BooksCRUDAPI\\Entity\\Book.cs",
+              "RelativeToolTip": "BooksCRUDAPI\\Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T09:36:56.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
